@@ -1,4 +1,6 @@
+================================
 Basic python (20-25 days)
+=================================
 
 Introduction to python
 Python / programming basic (variable/datatype/Data strucutre)
@@ -6,14 +8,20 @@ Writing basic pgms
 String Indexing and slicing
 Data structures in python (list/tuple/set/Dictionary)
 Data structure method
+DS conversion / Nested Data strucuture
 Conditional stmt
 Loops (while for )
-Functions in python
+Functions in python (inbuilt function and user def function)
+Hackerrank
+
 
 Miniproject and project1
-Test1 (50 marks)
+Test1 (50 marks (50 mins), pass mark: 35, 25 marks mcq+ 25 marks pgms (5 pgms)) (eLigibility: Hackerrank  200 points, mini project completion, project1 = ~50%+)
 
+
+===============================
 Medium level (15 - 20 days)
+===============================
 
 Anonymous functions
 Comprehensions
@@ -26,10 +34,13 @@ Regular expression
 itertools module
 
 Project2
-Test2
+Test2 (100 marks ==> 5+ pgms (1 hour :30 mins)) (eLigibility: Hackerrank python  330 points, Regex 200 pts  project1 completion, project2 = ~50%+)
 
-Advanced level (15-days)
+================================
+Advanced level (15-25 days)
+===============================
 
+Decorators / generator / iterators / json 
 OOPS
 Inheritance
 Abstract class
@@ -39,7 +50,10 @@ Multi threading
 Database connectivity
 Networking
 Django
-Decorators / generator / iterators 
+
+Test3 (100 marks ==> 5+ pgms (1 hour :30 mins)) (eLigibility: Hackerrank python  400 points, Regex 400 pts  project1/2 completion project3/4/5 ongoing)
+Project3/4/5 
+
 
 Project3
 Test3
