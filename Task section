@@ -14,3 +14,37 @@ Study in detail about compiler vs interpreter
 + / * - // ** % understand about operators
 study about int/float/str/bool inbuilt functions
 study about input inbuilt functions
+
+
+==============================
+29-12-21
+==============================
+
+#Task1
+
+Data type conversion table
+      int    float     str     bool
+int
+float
+str
+bool
+
+int to float
+int to str
+int to bool
+
+
+#12 pgms  ===> why string is called as global data type
+
+
+
+#Task2
+
+write a program to calculate perimeter of the circle with radius (float) 2 * pi * radius
+#output in integer in formatted
+
+#Task3: (input: float, output: int)
+
+radius and height as float ,
+calculate Area of cone (area of cone = 1/3 * pi * r * r * h) (float)
+print output in integer data type and formatted way
