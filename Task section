@@ -450,3 +450,67 @@ In which situation infinite Loop will happen in while
 
 In which situation infinite Loop will happen in For
 
+
+#https://www.guru99.com/if-loop-python-conditional-structures.html
+#https://realpython.com/python-conditional-statements/
+#https://www.w3schools.com/python/python_conditions.asp
+
+
+https://www.w3schools.com/python/python_for_loops.asp
+https://www.w3schools.com/python/python_while_loops.asp
+
+
+==========
+Loops
+==========
+
+Task1:
+
+Input:
+Li1 = [3,4,5,2,7,8,9,10]
+
+Output:
+Li_odd = [3,5,7,9]
+Li_even = [4,2,8,10]
+
+#Li1 = [3,4,5,2,7,8,9,10]
+
+#Clue
+
+for i in Li1:
+    print(i)
+    if i % 2 == 0:
+        print("EVEN")
+    else:
+        print("ODD")
+        
+Task2:
+
+Input: [-1, -7,8,10,20,21,17,28,-3,0,0,]
+    
+Output:
+neg_LI = [-1,-7,-3]
+pos_LI = []
+Zeros = []
+
+Numeber of postivie ele: 7
+Number nega: 3
+Number of zeros: 2
+
+CLue: previous program and len function
+
+
+Task3:
+
+Collect a List from user
+
+
+Task4:
+
+Collect a Dictionary from user
+
+
+
+
+
+
