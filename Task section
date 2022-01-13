@@ -404,7 +404,42 @@ Task4:
 #C
 
 
+===================================
+Jan 13, 2022
+==================================
 
+#program1
+#Get one string from user
+#extract middle letter of the string
+#check whether middle letter is vowel or no
+
+#program2
+#Get one string from user
+#Find the middle letter
+#find ascii value for the middle letter
+#check whether ascii value is odd or even
+
+#program3:
+#get one string from user
+#check whether length of the string is odd or even
+
+#program4:
+#Get one string from user
+#check whether string is palindrome or no
+
+#program5:
+
+#two strings from user
+
+#mathematics ===> 4 vowels
+#science ==> 3 vowels
+
+#both are equal count or not equal
+
+#program 6:
+
+#[123, 124, 125,]  
+Create a list and identify the length of list  ?  odd or even
 
 
 
