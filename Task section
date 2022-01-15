@@ -529,5 +529,16 @@ https://www.geeksforgeeks.org/python-programming-examples/ (50 pgms)
 
 https://www.w3schools.com/python/python_ref_functions.asp (Study about 10 functions)
 
+https://www.w3schools.com/python/python_functions.asp (Read)
+
+Try below programs with function
+
+collect one number from user, check whether it's prime or composite
+collect two strings from user, check whther both are anagrams or not
+Collect a number from user, and print fibonacci series for that many numbers
+collect one number from user and identify its factorial (Recursive function)
+Collect a number from user and identify its factors or multipliers
+collect two numbers from users, identify its gcd and lcm
+collect a number use, check whether its armstrong or no
 
 
