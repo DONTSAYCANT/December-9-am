@@ -514,20 +514,18 @@ Collect a Dictionary from user
 Jan 14 - 2022
 =========================
 
-prime
-anagram
-palindrome
-fibonacci
-factorial
-composite number
-muliple
-multiplier
-factors
-lcm
-gcd
-armstrong
 
-https://www.geeksforgeeks.org/python-programming-examples/
+collect one number from user, check whether it's prime or composite
+collect two strings from user, check whther both are anagrams or not
+Collect a number from user, and print fibonacci series for that many numbers
+collect one number from user and identify its factorial
+Collect a number from user and identify its factors or multipliers
+collect two numbers from users, identify its gcd and lcm
+collect a number use, check whether its armstrong or no
+
+
+
+https://www.geeksforgeeks.org/python-programming-examples/ (50 pgms)
 
 
 
