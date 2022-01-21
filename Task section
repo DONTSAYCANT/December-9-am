@@ -543,13 +543,15 @@ collect a number use, check whether its armstrong or no
 
 
 ================================
-Jan 16
+Jan 16 and Jan 21
 ===============================
 
 math (10 ops)
 statistics (10 ops)
 Os (10 ops)
 Sys (5 ops)
+itertools (5 ops)
+datetime (10 ops)
 
 
 
